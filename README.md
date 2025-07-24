@@ -6,7 +6,7 @@ Este é um jogo simples e divertido desenvolvido com HTML, CSS e JavaScript como
 
 Você pode jogar a versão ao vivo do projeto hospedada na Vercel através do link abaixo:
 
-**[Jogar o Jogo do Número Secreto](https://SUA-URL-AQUI.vercel.app/)**
+**[Jogar o Jogo do Número Secreto](https://jogo-do-numero-secreto-six-woad.vercel.app/)**
 
 ## 🕹️ Como Jogar
 
@@ -26,3 +26,5 @@ Você pode jogar a versão ao vivo do projeto hospedada na Vercel através do li
 -   **ResponsiveVoice.js**: API para síntese de voz, tornando o jogo mais acessível e interativo.
 
 ## 🖼️ Screenshot
+
+![jogo-img](./img/jogo-do-numero-secreto.png)
